@@ -264,13 +264,11 @@ Understanding both 🐧 **Linux** and 🪟 **Windows** servers is **essential** 
 
 > *"The methodology stays the same — only the commands change."*
 
-For SOC analysts, **platform-agnostic proficiency is not a specialization — it is a necessity.**
 
 By mastering both Linux and Windows, you position yourself to investigate any alert, on any system, wherever the evidence leads.
 
 ---
 
----
 
 <div align="center">
 
