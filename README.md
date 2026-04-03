@@ -87,7 +87,7 @@ It focuses on what SOC analysts actually need — where logs live, how authentic
 
 > *"The methodology stays the same — only the commands change."*
 
-Platform-agnostic proficiency is not a specialization — it is a necessity for SOC analysts.
+
 
 ---
 
